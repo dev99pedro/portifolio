@@ -88,7 +88,7 @@ export const WorkItensButtonText = styled.p`
 export const WorkItensTechs = styled.span`
 
     font-size: 13px;
-    color: #58287F;
+    color: #50C878;
     font-style: italic;
     margin-top: 10px;
     padding-bottom: 20px;
