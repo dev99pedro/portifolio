@@ -11,14 +11,15 @@ const Skills = () => {
 
 
     const data = [
-        { title: 'React', img: ImagesExport.React, stacks: 'ReactComponent, NextsJs' },
-        { title: 'Javascript', img: ImagesExport.Js, stacks: 'BLA BLA' },
-        { title: 'Css', img: ImagesExport.Css, stacks: 'Blo lo ' },
-        { title: 'Sass', img: ImagesExport.Sass, stacks: 'react component' },
-        { title: 'Bootstrap', img: ImagesExport.Boot, stacks: 'react component' },
-        { title: 'Jquery', img: ImagesExport.Jquery, stacks: 'Blo lo ' },
-        { title: 'Wordpress', img: ImagesExport.Wordpress, stacks: 'react component' },
-        { title: 'Styled-Components', img: ImagesExport.StyledComp, stacks: 'react component' },
+        { title: 'React', img: ImagesExport.React},
+        { title: 'Javascript', img: ImagesExport.Js },
+        { title: 'Css', img: ImagesExport.Css },
+        { title: 'Sass', img: ImagesExport.Sass },
+        { title: 'Bootstrap', img: ImagesExport.Boot},
+        { title: 'Jquery', img: ImagesExport.Jquery},
+        { title: 'Wordpress', img: ImagesExport.Wordpress },
+        { title: 'Styled-Components', img: ImagesExport.StyledComp },
+        { title: 'Typescript', img: ImagesExport.Type },
     ]
 
     const dataExtra = [

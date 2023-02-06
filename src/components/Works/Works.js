@@ -23,6 +23,7 @@ const Work = () => {
                 </WorkDiv>
                 <WorkDiv>
                     <WorkItens title="Churrascometro" techs="Html,Css,Javascript" subtitle="Sistema para calcular a quantidade de comida e bebida necessária para um churrasco." path="https://dev99pedro.github.io/Churrascometro-/" background={ImagesExports.Churrascometro}></WorkItens>
+                    <WorkItens title="Job Filter" techs="React, Sass" subtitle="Sistema onde é efetuado um filtro de busca de vagas, que pode ser filtrado pelas características e nível de experiência da vaga." path="https://filter-job.vercel.app/" background={ImagesExports.FilterJoB}></WorkItens>
                     <WorkItens title="Select Character" techs="Html,Css,Javascript" subtitle="Projeto realizado do curso Dev em Dobro, para praticar um pouco as habilidades JS (:" path="https://dev99pedro.github.io/selectCharacter/" background={ImagesExports.Naruto}></WorkItens>
                 </WorkDiv>
                 <WorkGithubButtonText href='https://github.com/dev99pedro' target="_blank">

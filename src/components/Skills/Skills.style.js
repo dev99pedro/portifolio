@@ -38,7 +38,7 @@ export const SkillsCardWrapper = styled.div`
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
-    width: 1170px;
+    width: 1130px;
     
     @media (max-width: 700px) {
         flex-direction: column;
