@@ -19,7 +19,6 @@ const Skills = () => {
         { title: 'Jquery', img: ImagesExport.Jquery},
         { title: 'Wordpress', img: ImagesExport.Wordpress },
         { title: 'Styled-Components', img: ImagesExport.StyledComp },
-        { title: 'Typescript', img: ImagesExport.Type },
     ]
 
     const dataExtra = [

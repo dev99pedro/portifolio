@@ -18,13 +18,14 @@ const ImagesExports = {
     Amazon: require ('../img/amazon.png'),
     StyledComp: require('../img/styled.png'),
     Type: require('../img/typescript.png'),
+
     //projetos
 
     ReactProject: require('../img/react-img-projeto.png'),
     EccomerceProject: require('../img/eccomerce.png'),
     GitProject: require( '../img/github-img-projeto.png'),
     Churrascometro: require ('../img/churrascometro.png'),
-    Naruto: require('../img/naruto-background.png'),
+    Loja: require('../img/loja.png'),
     FilterJoB: require('../img/filterjob.png'),
 
     //Experience
