@@ -27,6 +27,7 @@ const ImagesExports = {
     Churrascometro: require ('../img/churrascometro.png'),
     Loja: require('../img/loja.png'),
     FilterJoB: require('../img/filterjob.png'),
+    Task: require('../img/task.png'),
 
     //Experience
 
