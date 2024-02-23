@@ -13,12 +13,15 @@ const Skills = () => {
     const data = [
         { title: 'React', img: ImagesExport.React},
         { title: 'Javascript', img: ImagesExport.Js },
+        { title: 'Typescript', img: ImagesExport.Type },
         { title: 'Css', img: ImagesExport.Css },
-        { title: 'Sass', img: ImagesExport.Sass },
+        { title: 'SASS', img: ImagesExport.Sass },
         { title: 'Bootstrap', img: ImagesExport.Boot},
         { title: 'Jquery', img: ImagesExport.Jquery},
         { title: 'Wordpress', img: ImagesExport.Wordpress },
         { title: 'Styled-Components', img: ImagesExport.StyledComp },
+        { title: 'Node', img: ImagesExport.Node },
+        { title: 'MYSQL', img: ImagesExport.Mysql },
     ]
 
     const dataExtra = [

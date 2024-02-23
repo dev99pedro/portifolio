@@ -2,8 +2,9 @@ import styled from "styled-components";
 
 
 export const HomeWrapper = styled.div`
-
-   height: 100vh;
+   line-height: 40px;
+   background-color: #000000;
+   padding-top: 20vh;
    background-position: center center;
    background-size: cover;
    display: flex;

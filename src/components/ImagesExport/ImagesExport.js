@@ -18,6 +18,8 @@ const ImagesExports = {
     Amazon: require ('../img/amazon.png'),
     StyledComp: require('../img/styled.png'),
     Type: require('../img/typescript.png'),
+    Node: require('../img/node.png'),
+    Mysql: require('../img/mysql.png'),
 
     //projetos
 
@@ -28,7 +30,7 @@ const ImagesExports = {
     Loja: require('../img/loja.png'),
     FilterJoB: require('../img/filterjob.png'),
     Task: require('../img/task.png'),
-
+    NodeProject: require('../img/node-project.png'),
     //Experience
 
     Add: require( '../img/add.png'),
