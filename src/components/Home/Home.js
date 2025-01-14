@@ -12,12 +12,12 @@ const Home = () => {
         <HomeWrapper any={width} style={{ backgroundImage: 'url(https://cdn.discordapp.com/attachments/900504829527490630/1065650790468964452/IMG_6697_-_copia.JPG)' }}>
             <HomeText>
                 <HomeTitle>
-                    Desenvolvedor Front-end
+                Full Stack Developer
                 </HomeTitle>
                 <HomeSubtitle>
-                    Sou desenvolvedor de software desde 2021, atualmente estou com foco total em
-                    React e Node, onde estudo princípios de desenvolvimento de código escalável
-                    como SOLID, Clean Architecture e TDD
+                Software developer since 2021, with experience in developing applications using
+                React, focused on implementing features and integrations. Currently
+                specializing in Ruby on Rails
                 </HomeSubtitle>
             </HomeText>
         </HomeWrapper>

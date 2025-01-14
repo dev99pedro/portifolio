@@ -7,8 +7,8 @@ const Experience = () => {
 
 
     const exp = [
-        { title: 'PMWEB', data: '2021 - Presente', text: 'Desenvolvimento e criação de E-mails. Desenvolvimento de Landing-pages em Html, Css e Javascript', img: ImagesExport.Pmweb },
-        { title: 'Infocap Tecnologia da Informação', data: '2020 - 2021', text: 'Desenvolvimento e melhoria de sites, Landing-pages, e Layouts. Criação e ajuste de componentes', img: ImagesExport.Info},
+        { title: 'PMWEB', data: '2021 - Present', text: 'Responsible for the construction, implementation, and maintenance of various applications and websites using HTML, CSS, and JavaScript. Technologies: HTML, CSS, JavaScript, JQuery, Git, GitLab', img: ImagesExport.Pmweb },
+        { title: 'Infocap Tecnologia da Informação', data: '2020 - 2021', text: 'Creation of websites and applications using Angular. Utilized Jira and other technologies for project tracking. Technologies: Angular, CSS, Git.', img: ImagesExport.Info},
     ]
 
 

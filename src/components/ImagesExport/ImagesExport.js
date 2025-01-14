@@ -6,6 +6,7 @@ const ImagesExports = {
 
 
     React: require ('../img/react-logo.png'),
+    Ruby: require ('../img/ruby.png'),
     Js: require ( '../img/js-logo.png'),
     Css: require('../img/css-logo.png'),
     Sass: require('../img/sass.png'),

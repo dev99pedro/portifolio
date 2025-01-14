@@ -11,6 +11,7 @@ const Skills = () => {
 
 
     const data = [
+        { title: 'Ruby on Rails', img: ImagesExport.Ruby},
         { title: 'React', img: ImagesExport.React},
         { title: 'Javascript', img: ImagesExport.Js },
         { title: 'Typescript', img: ImagesExport.Type },
@@ -18,7 +19,6 @@ const Skills = () => {
         { title: 'SASS', img: ImagesExport.Sass },
         { title: 'Bootstrap', img: ImagesExport.Boot},
         { title: 'Jquery', img: ImagesExport.Jquery},
-        { title: 'Wordpress', img: ImagesExport.Wordpress },
         { title: 'Styled-Components', img: ImagesExport.StyledComp },
         { title: 'Node', img: ImagesExport.Node },
         { title: 'MYSQL', img: ImagesExport.Mysql },
